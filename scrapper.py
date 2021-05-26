@@ -7,7 +7,7 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
-username = 'Dominic_De2'
+username = '<Insert Username to search>'
 count = 150
 try:     
  # Creation of query method using parameters
